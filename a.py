@@ -7,6 +7,3 @@ a[0]=temp
 print(a)
 print(c)
 
-
-
-
